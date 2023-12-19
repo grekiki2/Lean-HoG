@@ -7,3 +7,4 @@ lake-manifest.json
 data/build
 /lake-packages/*
 build
+/.lake
